@@ -1,0 +1,1 @@
+Use genre_train.json, and genre_test.json provided with the assignment.
